@@ -1,4 +1,5 @@
 # postgis-geojson
+[![Build Status](https://travis-ci.org/mayconbordin/postgis-geojson.svg?branch=master)](https://travis-ci.org/mayconbordin/postgis-geojson)
 
 GeoJSON Jackson Serializers and Deserializers for PostGIS Geometry objects.
 
