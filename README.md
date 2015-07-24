@@ -1,5 +1,5 @@
 # postgis-geojson
-[![Build Status](https://travis-ci.org/mayconbordin/postgis-geojson.svg?branch=master)](https://travis-ci.org/mayconbordin/postgis-geojson)
+[![Build Status](https://travis-ci.org/mayconbordin/postgis-geojson.svg?branch=master)](https://travis-ci.org/mayconbordin/postgis-geojson) [![Release](https://img.shields.io/github/release/jitpack/gradle-simple.svg?label=maven)](https://jitpack.io/#mayconbordin/postgis-geojson)
 
 GeoJSON Jackson Serializers and Deserializers for PostGIS Geometry objects.
 
@@ -41,7 +41,7 @@ Then add the dependency to your `pom.xml` file:
 </dependency>
 ```
 
-For more information go to the [JitPack page](https://jitpack.io/#mayconbordin/postgis-geojson/).
+For more information on how to build the library with other tools (Gradle, Sbt, Leiningen) see the [JitPack documentation](https://jitpack.io/docs/BUILDING/).
 
 ## Usage
 
