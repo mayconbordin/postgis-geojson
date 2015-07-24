@@ -40,6 +40,8 @@ Then add the dependency to your `pom.xml` file:
 </dependency>
 ```
 
+For more information go to the [JitPack page](https://jitpack.io/#mayconbordin/postgis-geojson/).
+
 ## Usage
 
 First you need to register the library module within the `ObjectMapper` instance you are going to use:
